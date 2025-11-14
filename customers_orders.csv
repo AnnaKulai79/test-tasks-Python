@@ -1,0 +1,7 @@
+CustomerID,Name,City,OrderID,Amount
+1,Anna,Lviv,101.0,250.0
+1,Anna,Lviv,103.0,300.0
+2,Victor,Kyiv,102.0,150.0
+3,Elsa,Paris,104.0,200.0
+4,Ted,London,105.0,400.0
+5,Olga,Kil,,
